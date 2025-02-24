@@ -53,20 +53,20 @@ A quality assurance (QA) manager is responsible for converting project requireme
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-<Integrated Development Environments (IDEs) help with coding by providing features like debugging, code completion, and project management. Examples (Visual Studio Code)>
+Integrated Development Environments (IDEs) help with coding by providing features like debugging, code completion, and project management. Examples (Visual Studio Code)
 
-<Version Control Systems (VCS) track changes, enable collaboration, and prevent code loss. Examples (Git)>
+Version Control Systems (VCS) track changes, enable collaboration, and prevent code loss. Examples (Git)
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-<Common challenges include debugging, tight deadlines, and unclear requirements. We can overcome them with code reviews, time management, and clear communication.>
+Common challenges include debugging, tight deadlines, and unclear requirements. We can overcome them with code reviews, time management, and clear communication.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-<System Testing – Evaluates the entire system’s functionality.>
-<Acceptance Testing – Confirms the system meets user needs.>
-<Unit Testing – Verifies individual components work correctly.>
-I<ntegration Testing – Ensures multiple modules interact properly.>
+System Testing – Evaluates the entire system’s functionality.
+Acceptance Testing – Confirms the system meets user needs.
+Unit Testing – Verifies individual components work correctly.
+Integration Testing – Ensures multiple modules interact properly.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -76,6 +76,6 @@ Prompt engineering is identified as the key to unlocking the full potential of g
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-<Vague Prompt: "Tell me about smart agriculture.">
-<Improved Prompt: "Explain how smart agriculture affects agriculture in Africa with recent examples.">
-<The improved prompt is specific and focused, leading to a more relevant response.>
+Vague Prompt: "Tell me about smart agriculture."
+Improved Prompt: "Explain how smart agriculture affects agriculture in Africa with recent examples."
+The improved prompt is specific and focused, leading to a more relevant response.
